@@ -1,4 +1,4 @@
-package factory;
+package generator;
 
 import entity.HeavyTask;
 import entity.Task;
@@ -12,6 +12,7 @@ public class HeavyTaskGenerator {
         task.setType(Type.HEAVY);
         task.setID(id);
         return task;
-
     }
+
+
 }

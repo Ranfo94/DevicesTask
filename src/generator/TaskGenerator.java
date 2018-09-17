@@ -1,4 +1,4 @@
-package factory;
+package generator;
 
 import entity.Task;
 
